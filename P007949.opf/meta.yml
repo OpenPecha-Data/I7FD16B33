@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16464
   title: མཁས་དབང་བློ་བཟང་རྒྱ་མཚོའི་བློ་རིགས།
-  volume: ''
+  volume:
+    a749c698eb4b4913ada4b5c331682e2c:
+      image_group_id: I1KG16470
+      title: Volume 1 of mkhas dbang blo bzang rgya mtsho'i blo rigs/
+      volume_number: 1
+      total_pages: 300
   author: ''
+ebook_metadata:
+  title: མཁས་དབང་བློ་བཟང་རྒྱ་མཚོའི་བློ་རིགས།
+  author: ''
+  sku: P007949
+  cover: cover.jpg
+  layers:
+  - pagination
