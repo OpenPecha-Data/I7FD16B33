@@ -5,11 +5,12 @@ source_metadata:
   title: མཁས་དབང་བློ་བཟང་རྒྱ་མཚོའི་བློ་རིགས།
   author: ''
   volumes:
-    9d7bf9cc1b2641ffacfc8bc4ea49ded0:
+    a749c698eb4b4913ada4b5c331682e2c:
       image_group_id: I1KG16470
-      title: ''
+      title: Volume 1 of mkhas dbang blo bzang rgya mtsho'i blo rigs/
       volume_number: 1
       total_pages: 300
+      base_file: v001.txt
 ebook_metadata:
   title: མཁས་དབང་བློ་བཟང་རྒྱ་མཚོའི་བློ་རིགས།
   author: ''
